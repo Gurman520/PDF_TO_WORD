@@ -40,7 +40,7 @@
 ```bash
 # Клонировать репозиторий
 git clone https://github.com/Gurman520/PDF_TO_WORD.git
-cd pdf-to-word-converter
+cd PDF_TO_WORD
 
 # Установить зависимости
 pip install -r requirements.txt
